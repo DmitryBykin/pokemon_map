@@ -1,0 +1,22 @@
+#private data
+.env
+
+#base
+db.sqlite3
+
+#media data
+media/*
+
+#migrations
+pokemon_entities/migrations/*
+!pokemon_entities/migrations/__init__.py
+
+#virtual env
+venv
+
+#cache
+pogomap/__pycache__/*
+pokemon_entities/__pycache__/*
+.idea
+
+
