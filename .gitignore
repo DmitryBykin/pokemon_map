@@ -7,10 +7,6 @@ db.sqlite3
 #media data
 media/*
 
-#migrations
-pokemon_entities/migrations/*
-!pokemon_entities/migrations/__init__.py
-
 #virtual env
 venv
 
